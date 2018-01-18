@@ -1,9 +1,5 @@
+Preheat Oven
 Cream butter, sugar, and vanilla
 add eggs and beat
-<<<<<<< HEAD
-add flour
-add chocolate chips
-preheat oven
 add flour and mix until stiff
 add chocolate chips and mix
->>>>>>> 5a951d3123e4019f0f74568eb1ce182d49365782
