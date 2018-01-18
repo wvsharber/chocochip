@@ -3,3 +3,5 @@ sugar
 butter
 baking soda
 eggs
+chocolate chips
+vanilla
